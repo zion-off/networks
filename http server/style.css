@@ -1,0 +1,13 @@
+ h1 {
+    color:red;
+    font-size: 26;
+}
+
+p {
+    color:blue;
+    font-family: sans-serif;
+    font-size: 12;
+}
+img {
+    display: block;
+}
