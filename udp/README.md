@@ -1,4 +1,4 @@
-# README for UDP Client and Server
+# UDP Client and Server
 
 ## Project Overview
 
