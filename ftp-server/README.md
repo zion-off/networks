@@ -47,8 +47,8 @@ This project implements a simplified version of the FTP application protocol, co
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/simplified-ftp.git
-    cd simplified-ftp
+    git clone https://github.com/zion-off/networks.git
+    cd ftp-server
     ```
 
 2. Compile the server and client programs:
